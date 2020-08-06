@@ -1,0 +1,20 @@
+{
+  "$id": "18",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2020-08-06T22:09:22.6264425+08:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "分支",
+    "远程",
+    "贮藏"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": []
+}
